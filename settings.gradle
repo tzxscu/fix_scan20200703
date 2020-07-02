@@ -1,0 +1,3 @@
+include ':zloadingview'
+include ':app'
+rootProject.name = "fix_scan"
